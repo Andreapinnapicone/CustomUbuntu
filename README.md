@@ -46,12 +46,12 @@ Selectionnez l'extension que vous souhaitez.
 
 Cliquez sur le bouton **OFF**
 
-Une fenêtre va apparaître demandant si vous souhaitez installer l'extension. une fois fait il vous suffit d'appuyer sur la touche **exposant** du vôtre clavier et **MAGIE!**
+Une fenêtre va apparaître demandant si vous souhaitez installer l'extension. Une fois fait il vous suffit d'appuyer sur la touche **exposant** de vôtre clavier et **MAGIE!**
 
-Vous pouvez gérer vos extensions en cliquant sur le bouton ![gérer extensions](./images/gererext.png) en haut a droite de vôtre ecran, pour avtiver/désactiver les extensions ou les personnaliser.
-
-Il est egalement possible de personnaliser autre chose que les extensions via **Tweak Tool** 
+Il est possible de personnaliser autre chose que les extensions via **Tweak Tool** 
 ![Tweak Tool](./images/tweaktool.png).
+
+Vous pouvez également ajouter l'extension [Extension Panel](https://extensions.gnome.org/extension/1036/extensions/) qui permet de gérer vos extensions en cliquant sur le bouton ![gérer extensions](./images/gererext.png) en haut a droite de vôtre ecran, pour avtiver/désactiver les extensions ou les personnaliser.
 
 
 Veille **Custom Ubuntu** par [Andrea Pinna Picone](https://github.com/Andreapinnapicone)
